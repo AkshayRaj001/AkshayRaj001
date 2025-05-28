@@ -1,9 +1,9 @@
-![bg](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
+![bg](https://raw.githubusercontent.com/akshayraj001/akshayraj001/main/assets/header.gif)
 
 <h1 align="center">Hi 👋, I'm Akshay Raj</h1>
 <h3 align="center">🚀 Passionate Flutter Developer from Kerala, India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a1257b68f2b8f740b5e4f7f5f7.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akshayraj001&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -13,11 +13,24 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Flutter mobile apps**
+- 🔭 Currently working as a **[Your Role]** at **[Your Company]**
+- 📱 Working on **[Project Name(s)]** — [Brief description]
 - 🌱 Learning and building with **Flutter, Dart, Firebase, Hive, Python**
 - 💬 Ask me anything about **Flutter development**
 - 📫 Reach me at **akshay26062002@gmail.com**
 - ⚡ Fun fact: I have an EEE background but I code like a pro! ⚡
+
+---
+
+### 🧑‍💼 Work & Projects
+
+- 💼 **[Company Name]**
+  - 🧑‍💻 Role: [Your Role]
+  - 🔧 Project: **[Project Name]**
+    - 📱 Description: [1–2 line summary]
+    - 🔗 [Optional: Play Store / GitHub Link]
+
+*(List more projects as needed)*
 
 ---
 
